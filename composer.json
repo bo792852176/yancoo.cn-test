@@ -8,7 +8,6 @@
     "license": "Apache",
     "autoload": {
         "psr-4": {
-            "YancooCn\\Test\\": "src/",
             "Siam\\": "src/siam"
         }
     },
